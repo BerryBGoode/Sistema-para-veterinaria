@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C697AA5C-2787-412C-B56D-A685E6FE3ADE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vista</RootNamespace>
+    <AssemblyName>Vista</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.5\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="iTextSharp.LGPLv2.Core.StrongName, Version=1.6.1.0, Culture=neutral, PublicKeyToken=eaf84f42a97b3292, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.LGPLv2.Core.StrongName.1.6.1\lib\net40\iTextSharp.LGPLv2.Core.StrongName.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EspañolMain.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EspañolMain.resx</DependentUpon>
+    </Compile>
+    <Compile Include="EspañolPrimerUso.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EspañolPrimerUso.resx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCambiarClave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCambiarClave.Designer.cs">
+      <DependentUpon>FrmCambiarClave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultas.Designer.cs">
+      <DependentUpon>FrmConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpleados.Designer.cs">
+      <DependentUpon>FrmEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExpediente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExpediente.Designer.cs">
+      <DependentUpon>FrmExpediente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFactura.Designer.cs">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogIn.Designer.cs">
+      <DependentUpon>FrmLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainExpediente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainExpediente.Designer.cs">
+      <DependentUpon>FrmMainExpediente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMetodo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMetodo1.Designer.cs">
+      <DependentUpon>FrmMetodo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMetodo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMetodo2.Designer.cs">
+      <DependentUpon>FrmMetodo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMetodo3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMetodo3.Designer.cs">
+      <DependentUpon>FrmMetodo3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMiCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMiCuenta.Designer.cs">
+      <DependentUpon>FrmMiCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMostarConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostarConsultas.Designer.cs">
+      <DependentUpon>FrmMostarConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMostrarEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostrarEmpleados.Designer.cs">
+      <DependentUpon>FrmMostrarEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMostrarFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostrarFactura.Designer.cs">
+      <DependentUpon>FrmMostrarFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMostrarPerros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostrarPerros.Designer.cs">
+      <DependentUpon>FrmMostrarPerros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMostrarPropietarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostrarPropietarios.Designer.cs">
+      <DependentUpon>FrmMostrarPropietarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMostrarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostrarUsuarios.Designer.cs">
+      <DependentUpon>FrmMostrarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMétodosRecup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMétodosRecup.Designer.cs">
+      <DependentUpon>FrmMétodosRecup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPerros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPerros.Designer.cs">
+      <DependentUpon>FrmPerros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrimerEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrimerEmpleado.Designer.cs">
+      <DependentUpon>FrmPrimerEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrimerUso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrimerUso.Designer.cs">
+      <DependentUpon>FrmPrimerUso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrimerUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrimerUsuario.Designer.cs">
+      <DependentUpon>FrmPrimerUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPropietarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPropietarios.Designer.cs">
+      <DependentUpon>FrmPropietarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarios.Designer.cs">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InglesConsulta.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesConsulta.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesEmpleados.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesEmpleados.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesExpediente.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesExpediente.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesFactura.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesFactura.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesCambiarClave.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesCambiarClave.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesLogin.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesLogin.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesMain.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesMain.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesPerros.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesPerros.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesPrimerUso.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesPrimerUso.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesPropietarios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesPropietarios.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesRecupContraseña.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesRecupContraseña.resx</DependentUpon>
+    </Compile>
+    <Compile Include="InglesUsuario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InglesUsuario.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validaciones.cs" />
+    <EmbeddedResource Include="EspañolMain.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>EspañolMain.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EspañolPrimerUso.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>EspañolPrimerUso.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCambiarClave.resx">
+      <DependentUpon>FrmCambiarClave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultas.resx">
+      <DependentUpon>FrmConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpleados.resx">
+      <DependentUpon>FrmEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExpediente.resx">
+      <DependentUpon>FrmExpediente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFactura.resx">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogIn.resx">
+      <DependentUpon>FrmLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainExpediente.resx">
+      <DependentUpon>FrmMainExpediente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMetodo1.resx">
+      <DependentUpon>FrmMetodo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMetodo2.resx">
+      <DependentUpon>FrmMetodo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMetodo3.resx">
+      <DependentUpon>FrmMetodo3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMiCuenta.resx">
+      <DependentUpon>FrmMiCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostarConsultas.resx">
+      <DependentUpon>FrmMostarConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrarEmpleados.resx">
+      <DependentUpon>FrmMostrarEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrarFactura.resx">
+      <DependentUpon>FrmMostrarFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrarPerros.resx">
+      <DependentUpon>FrmMostrarPerros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrarPropietarios.resx">
+      <DependentUpon>FrmMostrarPropietarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrarUsuarios.resx">
+      <DependentUpon>FrmMostrarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMétodosRecup.resx">
+      <DependentUpon>FrmMétodosRecup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPerros.resx">
+      <DependentUpon>FrmPerros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrimerEmpleado.resx">
+      <DependentUpon>FrmPrimerEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrimerUso.resx">
+      <DependentUpon>FrmPrimerUso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrimerUsuario.resx">
+      <DependentUpon>FrmPrimerUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPropietarios.resx">
+      <DependentUpon>FrmPropietarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarios.resx">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesConsulta.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesConsulta.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesEmpleados.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesEmpleados.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesExpediente.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesExpediente.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesFactura.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesFactura.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesCambiarClave.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesCambiarClave.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesLogin.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesLogin.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesMain.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesMain.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesPerros.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesPerros.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesPrimerUso.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesPrimerUso.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesPropietarios.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesPropietarios.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesRecupContraseña.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesRecupContraseña.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InglesUsuario.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>InglesUsuario.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize_window_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restore_window_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_window_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_paw_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show_property_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update_left_rotation_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\broom_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\146-1466966_blue-pawprint-clear-patitas-de-perro-naranja-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboardBlue_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controlador\Controlador.csproj">
+      <Project>{32558f86-0ca0-4cc2-bdbf-9f260e7bbe7a}</Project>
+      <Name>Controlador</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male_user_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_to_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_white_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator_male_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrator_male_White_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipboard_100px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male_user_White100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inveternacion_admin_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkmark_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin_settings_male_Blue100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_rights_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_reset_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_reset_White_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_blue_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_not_found_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checked_user_male_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_in_list_Blue100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password_reset_White_100px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gmail_100px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

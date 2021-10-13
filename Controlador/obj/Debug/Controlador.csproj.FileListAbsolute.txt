@@ -1,0 +1,40 @@
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Controlador\obj\Debug\Controlador.pdb

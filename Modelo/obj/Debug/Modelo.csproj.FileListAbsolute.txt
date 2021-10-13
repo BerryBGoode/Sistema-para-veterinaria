@@ -1,0 +1,32 @@
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Modelo\obj\Debug\Modelo.pdb

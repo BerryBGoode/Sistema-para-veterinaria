@@ -1,0 +1,176 @@
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe.config
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Vista.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMain.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.exe
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPropietarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPerros.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmConsultas.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmEmpleados.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmFactura.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmLogIn.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMainExpediente.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmExpediente.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPerros.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPropietarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostarConsultas.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarEmpleados.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarFactura.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarUsuarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmUsuarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe.config
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.exe
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Vista.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmConsultas.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmEmpleados.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmExpediente.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmFactura.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmLogIn.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMain.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMainExpediente.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostarConsultas.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarEmpleados.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarFactura.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPerros.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPropietarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarUsuarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPerros.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPropietarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmUsuarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMétodosRecup.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo1.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmCambiarClave.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerUso.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerUsuario.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerEmpleado.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe.config
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.exe
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Vista.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmCambiarClave.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmConsultas.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmEmpleados.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmExpediente.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmFactura.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmLogIn.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMain.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMainExpediente.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo1.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo2.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostarConsultas.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarEmpleados.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarFactura.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPerros.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPropietarios.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarUsuarios.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMétodosRecup.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPerros.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerEmpleado.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerUso.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerUsuario.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPropietarios.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmUsuarios.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\Sistema\SistemaV5\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo3.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo2.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\iTextSharp.LGPLv2.Core.StrongName.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\iTextSharp.LGPLv2.Core.StrongName.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo3.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema gestor de consultas\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe.config
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.exe
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Vista.exe
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Vista.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Controlador.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\iTextSharp.LGPLv2.Core.StrongName.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Modelo.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Controlador.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\iTextSharp.LGPLv2.Core.StrongName.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\MySql.Data.xml
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\Modelo.pdb
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmCambiarClave.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmConsultas.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmEmpleados.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmExpediente.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmFactura.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmLogIn.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMain.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMainExpediente.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo1.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo2.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMetodo3.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostarConsultas.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarEmpleados.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarFactura.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPerros.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarPropietarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMostrarUsuarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMétodosRecup.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPerros.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerEmpleado.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerUso.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPrimerUsuario.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmPropietarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmUsuarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesFactura.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesCambiarClave.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesConsulta.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesEmpleados.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesExpediente.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesLogin.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.EspañolMain.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesMain.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesRecupContraseña.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesUsuario.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesPropietarios.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesPerros.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.EspañolPrimerUso.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.InglesPrimerUso.resources
+C:\Users\ferna\Desktop\PTC_2021\Sistema\Sistema V14\Sistema gestor de consultas\Vista\obj\Debug\Vista.FrmMiCuenta.resources
