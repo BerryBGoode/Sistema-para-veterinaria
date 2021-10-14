@@ -68,6 +68,20 @@ namespace Vista
             ControladorMiCuenta.documento = txtDocumento.Text;
             ControladorMiCuenta.usuario = txtUsername.Text;
             ControladorMiCuenta.correo = txtCorreo.Text;
+            if (txtCorreo.Text != AtributosCuenta.correo)
+            {
+                switch (FrmMain.valortraducir)
+                {
+                    case 1:
+                        MessageBox.Show("Remember to activate the settings of your gmail account, activate the option of ACCESS TO LESS SECURE APPS, in order to send a message to the mail and this process does not generate conflicts", "important announcement", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        break;
+                    case 2:
+                        MessageBox.Show("Recuerde activa en ajustes de su cuenta de gmail, active la opción de ACCESO A APPS MENOS SEGURAS, para así poder enviar mensaje al correo y este proceso no genere conflictos", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        break;
+                    default:
+                        break;
+                }
+            }
             if (ControladorMiCuenta.ActualizarUsuario() == 1)
             {
                 if (ControladorMiCuenta.ActualizarEmpleado() == true)
@@ -80,6 +94,20 @@ namespace Vista
                     txtDocumento.Enabled = false;
                     txtUsername.Enabled = false;
                     pnlActualizar.Visible = false;
+                    switch (FrmMain.valortraducir)
+                    {
+                        case 1:
+                            MessageBox.Show("Then you will be redirected to log in, enter with your new data", "Notificación", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            break;
+                        case 2:
+                            MessageBox.Show("A Continuación serás redireccionado a iniciar sesión, ingresa con tus nuevos datos", "Notificación", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            break;
+                        default:
+                            break;
+                    }
+                    FrmLogIn login = new FrmLogIn();
+                    this.Hide();
+                    login.Show();
                 }
             }
         }

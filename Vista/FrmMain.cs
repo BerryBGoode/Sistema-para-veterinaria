@@ -406,6 +406,7 @@ namespace Vista
                 case 1:
                     FrmMiCuenta cuenta = new FrmMiCuenta();
                     cuenta.Show();
+                    this.Hide();
                     break;
                 case 2:
                     break;

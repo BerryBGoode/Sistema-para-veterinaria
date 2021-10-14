@@ -115,7 +115,6 @@ namespace Vista
             }
             catch (Exception)
             {
-                MessageBox.Show("Error al cargar los tipos de documentos, verifique su conexión a internet.", "Error de carga", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         void LlenarDepartamentos()
@@ -128,7 +127,6 @@ namespace Vista
             }
             catch (Exception)
             {
-                MessageBox.Show("Error al cargar los tipos de documentos, verifique su conexión a internet.", "Error de carga", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         void CargarGridEmpleados()
@@ -190,11 +188,36 @@ namespace Vista
         {           
             if (txtNombres.Text.Trim() == "" || txtApellidos.Text.Trim() == "" || txtNumDoc.Text.Trim() == "")
             {
-                MessageBox.Show("Existen campos incompletos, por favor completar todos los campos", "Información", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                string mensaje, tipo;
+                switch (FrmMain.valortraducir)
+                {
+                    case 1:
+                        mensaje = "Error there are empty fields";
+                        tipo = "Error";
+                        MessageBox.Show(mensaje, tipo, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        break;
+                    case 2:
+                        tipo = "Error";
+                        mensaje = "Error existen campos vacios";
+                        MessageBox.Show(mensaje, tipo, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        break;
+                    default:
+                        break;
+                }
             }
             else if (dtFechaNacimiento.Value.Date >= today || dtFechaNacimiento.Value.AddYears(18) > today)
             {
-                MessageBox.Show("Verifique su edad, recuerde que la edad mínima para registrar es 18 años", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                switch (FrmMain.valortraducir)
+                {
+                    case 1:
+                        MessageBox.Show("Check your age, remember that the minimum age to register is 18 years old", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        break;
+                    case 2:
+                        MessageBox.Show("Verifique su edad, recuerde que la edad mínima para registrar es 18 años", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        break;
+                    default:
+                        break;
+                }
             }
             else
             {
@@ -260,7 +283,7 @@ namespace Vista
             //6/10/21 para no autocambiarse algunos datos
             if (txtNombres.Text == AtributosCredenciales.nombre && txtApellidos.Text == AtributosCredenciales.Apellidos && txtidempleados.Text == AtributosCredenciales.ID.ToString())
             {
-                cmbCargo.Enabled = false;
+                cmbCargo.Enabled = false;                
             }
             else
             {
@@ -273,11 +296,36 @@ namespace Vista
         {
             if (txtNombres.Text.Trim() == "" || txtApellidos.Text.Trim() == "" || txtNumDoc.Text.Trim() == "")
             {
-                MessageBox.Show("Existen campos incompletos, por favor completar todos los campos", "Información", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                string mensaje, tipo;
+                switch (FrmMain.valortraducir)
+                {
+                    case 1:
+                        mensaje = "Error there are empty fields";
+                        tipo = "Error";
+                        MessageBox.Show(mensaje,tipo, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        break;
+                    case 2:
+                        tipo = "Error";
+                        mensaje = "Error existen campos vacios";
+                        MessageBox.Show(mensaje,tipo, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        break;
+                    default:
+                        break;
+                }
             }
             else if (dtFechaNacimiento.Value.Date >= today || dtFechaNacimiento.Value.AddYears(18) > today)
             {
-                MessageBox.Show("Verifique su edad, recuerde que la edad mínima para registrar es 18 años", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                switch (FrmMain.valortraducir)
+                {
+                    case 1:
+                        MessageBox.Show("Check your age, remember that the minimum age to register is 18 years old", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        break;
+                    case 2:
+                        MessageBox.Show("Verifique su edad, recuerde que la edad mínima para registrar es 18 años", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        break;
+                    default:
+                        break;
+                }
             }
             else
             {            
