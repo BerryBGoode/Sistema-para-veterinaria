@@ -232,7 +232,7 @@ list</value>
     <comment>Pacientes (perros) FrmPerros</comment>
   </data>
   <data name="tslFormPerros" xml:space="preserve">
-    <value>Patients for form:</value>
+    <value>Patients form:</value>
     <comment>Pacientes (perros) FrmPerros</comment>
   </data>
   <data name="txtBuscarPaciente" xml:space="preserve">

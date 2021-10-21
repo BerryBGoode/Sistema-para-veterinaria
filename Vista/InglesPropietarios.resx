@@ -209,7 +209,7 @@ data</value>
     <value>Reloading list</value>
   </data>
   <data name="tlsFrm" xml:space="preserve">
-    <value>Form for owners:</value>
+    <value>Owners form:</value>
   </data>
   <data name="txtBuscar" xml:space="preserve">
     <value>Search by name or number of document</value>

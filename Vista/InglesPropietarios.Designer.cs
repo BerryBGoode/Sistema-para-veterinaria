@@ -314,7 +314,7 @@ namespace Vista {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Form for owners:.
+        ///   Looks up a localized string similar to Owners form:.
         /// </summary>
         internal static string tlsFrm {
             get {

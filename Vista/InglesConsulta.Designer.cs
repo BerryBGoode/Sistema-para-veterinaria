@@ -289,7 +289,7 @@ namespace Vista {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Form appointment:.
+        ///   Looks up a localized string similar to Appointment form:.
         /// </summary>
         internal static string tlsFrmConsulta {
             get {

@@ -327,6 +327,8 @@ namespace Vista
                 groupBox1.Text = "Settings";
                 label4.Text = "Account";
                 label5.Text = "My account";
+                rbtnEspañol.Text = "Spanish";
+                rbtnIngles.Text = "English";
 
                 lblUsuarioDatos.Location = new Point(268, 94);
                 switch (ControladorLogIn.tipousuario)
@@ -354,7 +356,7 @@ namespace Vista
             {
                 valortraducir = 2;//Español
                 label1.Text = EspañolMain.lblBienvenidos;
-                label2.Text = "Lenguajes";
+                label2.Text = "Idiomas";
                 label3.Text = EspañolMain.lblCargo;
                 label7.Text = EspañolMain.lblCambiarContra;
                 btnEmpleados.Text = EspañolMain.btnEmpleados;
@@ -367,6 +369,8 @@ namespace Vista
                 groupBox1.Text = "Ajustes";
                 label4.Text = "Cuenta";
                 label5.Text = "Mi cuenta";
+                rbtnEspañol.Text = "Español";
+                rbtnIngles.Text = "Ingles";
 
                 lblUsuarioDatos.Location = new Point(200, 94);
                 switch (ControladorLogIn.tipousuario)

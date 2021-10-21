@@ -193,9 +193,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(67, 259);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(83, 23);
+            this.label2.Size = new System.Drawing.Size(71, 23);
             this.label2.TabIndex = 29;
-            this.label2.Text = "Lenguaje";
+            this.label2.Text = "Idiomas";
             // 
             // rbtnIngles
             // 

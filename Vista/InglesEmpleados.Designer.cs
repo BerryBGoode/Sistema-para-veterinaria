@@ -330,7 +330,7 @@ namespace Vista {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Employees for form:.
+        ///   Looks up a localized string similar to Employees form:.
         /// </summary>
         internal static string tslFormEmp {
             get {

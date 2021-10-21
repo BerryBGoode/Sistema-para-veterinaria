@@ -242,7 +242,7 @@ data</value>
     <comment>Empleado FrmEmpleado</comment>
   </data>
   <data name="tslFormEmp" xml:space="preserve">
-    <value>Employees for form:</value>
+    <value>Employees form:</value>
     <comment>Empleado FrmEmpleado</comment>
   </data>
   <data name="txtBuscarEmpleado" xml:space="preserve">

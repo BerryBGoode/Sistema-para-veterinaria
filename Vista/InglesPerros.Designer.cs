@@ -314,7 +314,7 @@ namespace Vista {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Patients for form:.
+        ///   Looks up a localized string similar to Patients form:.
         /// </summary>
         internal static string tslFormPerros {
             get {

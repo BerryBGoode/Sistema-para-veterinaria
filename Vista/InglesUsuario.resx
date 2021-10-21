@@ -181,7 +181,7 @@ data</value>
     <value>Reload list</value>
   </data>
   <data name="tlsFrm" xml:space="preserve">
-    <value>Form for users:</value>
+    <value>Users form:</value>
   </data>
   <data name="txtBuscar" xml:space="preserve">
     <value>Search by username or document number</value>

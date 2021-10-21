@@ -232,7 +232,7 @@ namespace Vista {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Form for users:.
+        ///   Looks up a localized string similar to Users form:.
         /// </summary>
         internal static string tlsFrm {
             get {

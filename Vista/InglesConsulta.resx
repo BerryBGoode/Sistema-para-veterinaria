@@ -226,7 +226,7 @@ list</value>
     <comment>Consulta FrmConsultas</comment>
   </data>
   <data name="tlsFrmConsulta" xml:space="preserve">
-    <value>Form appointment:</value>
+    <value>Appointment form:</value>
     <comment>Consulta FrmConsultas</comment>
   </data>
   <data name="txtBuscarConsulta" xml:space="preserve">
