@@ -101,6 +101,7 @@
             this.btnMinimizar.TabIndex = 2;
             this.btnMinimizar.TabStop = false;
             this.btnMinimizar.Zoom = 10;
+            this.btnMinimizar.Click += new System.EventHandler(this.btnMinimizar_Click);
             // 
             // pnlBarraSuperior
             // 
@@ -118,6 +119,7 @@
             this.pnlBarraSuperior.Quality = 10;
             this.pnlBarraSuperior.Size = new System.Drawing.Size(461, 34);
             this.pnlBarraSuperior.TabIndex = 1;
+            this.pnlBarraSuperior.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlBarraSuperior_MouseDown);
             // 
             // pictureBox1
             // 

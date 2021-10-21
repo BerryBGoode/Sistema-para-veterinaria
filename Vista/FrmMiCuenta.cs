@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using Controlador;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
 namespace Vista
@@ -31,8 +32,21 @@ namespace Vista
         {
             this.Hide();
             valor = 1;
+            FrmMain main = new FrmMain();
+            main.Show();
         }
         public static int valor { get; set; }
+
+        [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+        [DllImport("user32.DLL", EntryPoint = "SendMessage")]
+        private extern static void SendMessage(IntPtr hWnd, int wMsg, int wParam, int lParam);
+        private void pnlBarraSuperior_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
 
         private void FrmMiCuenta_Load(object sender, EventArgs e)
         {
@@ -124,6 +138,11 @@ namespace Vista
             label9.Text = "Adress gmail";
             lblActualizar.Text = InglesUsuario.lblActualizar;
             chkModificar.Text = "Modify data";
+        }
+
+        private void btnMinimizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
         }
     }
 }
