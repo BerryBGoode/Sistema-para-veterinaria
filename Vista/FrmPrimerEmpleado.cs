@@ -232,9 +232,13 @@ namespace Vista
         private void txtNombre_Apellidos_KeyPress(object sender, KeyPressEventArgs e)
         {
             Validaciones.SoloLetras(e);
-            if (txtNombre.Text.Contains(' ') && e.KeyChar == ' ')
+            if (txtNombre.Text.Contains('-') && e.KeyChar == '-')
             {
-                e.Handled = true;
+                e.Handled = false;
+            }
+            if (char.IsNumber(e.KeyChar))
+            {
+                e.Handled = false;
             }
             if (txtApellidos.Text.Contains(' ') && e.KeyChar == ' ')
             {

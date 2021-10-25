@@ -396,8 +396,9 @@ namespace Vista
             switch (FrmMain.valortraducir)
             {
                 case 1:
+                    string agregar = "Add";
                     tlsFrm.Text = InglesUsuario.tlsFrm;
-                    lblAgregar.Text = InglesUsuario.lblAgregar;
+                    lblAgregar.Text = agregar;
                     lblmostrar.Text = InglesUsuario.lblMostrar;
                     lblActualizar.Text = InglesUsuario.lblActualizar;
                     lblEliminar.Text = InglesUsuario.lblEliminar;

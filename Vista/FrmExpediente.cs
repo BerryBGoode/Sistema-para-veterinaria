@@ -113,6 +113,8 @@ namespace Vista
                     {
                         case 1:
                             MessageBox.Show("Data entry error", "Critical error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                            btnCerrarExpediente.Text = "Close file";
+
                             break;
                         case 2:
                             MessageBox.Show("Error al ingresar datos", "Error critico", MessageBoxButtons.OK, MessageBoxIcon.Warning);
